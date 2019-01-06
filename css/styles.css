@@ -167,6 +167,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#big-chonk-card {
+    background-image: url("https://i.imgur.com/lZVrzSJ.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
