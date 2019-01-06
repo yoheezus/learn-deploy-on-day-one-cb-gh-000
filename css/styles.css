@@ -1,3 +1,7 @@
+/* https://i.imgur.com/lZVrzSJ.jpg */
+
+
+
 /* GLOBAL STYLES
 ======================== */
 
@@ -163,6 +167,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#big-chonk-card {
+    background-image: url("https://i.imgur.com/lZVrzSJ.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -217,7 +225,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
- background-image: url("https://learn-verified.s3.amazonaws.com/banner-photo-placeholder.png");
+ background-image: url("http://beingcovers.com/media/facebook-cover/Cool-Dog-facebook-covers-3654.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -244,7 +252,7 @@ a:visited {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ background-image: url("https://i.imgur.com/lZVrzSJ.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
